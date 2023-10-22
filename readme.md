@@ -8,7 +8,7 @@ here's what i've been working on...
 
 **Data Engineer intern** \
 [**Compass.UOL**](https://compass.uol/en/home/) • intern \
-Linguagens & Tecnologias: `Python`, `SQL`, `AWS`, `Git`
+skills: `Python`, `SQL`, `AWS`, `Git`
 
 <br/>
 
