@@ -19,4 +19,3 @@ skills: `Python`, `SQL`, `AWS`, `Git`
 * ENG
 * SPN
 
-check me out on [LinkedIn](linkedin.com/in/alineara) 
