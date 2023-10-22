@@ -1,6 +1,6 @@
 
  
-### it' me! hi.
+### it's me! hi.
 
 here's what i've been working on...
 
