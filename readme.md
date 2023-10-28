@@ -10,7 +10,6 @@ here's what i've been working on...
 
 **AWS Data Engineering intern** \
 [**Compass.UOL**](https://compass.uol/en/home/) • intern \
-skills: `Python`, `SQL`, `AWS`, `Git`
 
 <br/>
 
