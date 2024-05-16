@@ -2,7 +2,6 @@
  
 ### it's me! hi.
 
-<img align=right width="250" height="250" src="https://github.com/aline-exe/Compass-UOL/assets/132860472/dea72ed1-12aa-472c-b6d7-0a8cac90d370" alt=":3">
 
 here's my previous experiences...
 
