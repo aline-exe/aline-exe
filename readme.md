@@ -12,10 +12,12 @@ here's my previous experiences...
 
 <br>
 
+
 [<img align="left" height="94px" width="94px" alt="Compass" src="https://media.licdn.com/dms/image/C4E22AQGeOInu0o1uZQ/feedshare-shrink_800/0/1636143287890?e=2147483647&v=beta&t=pA7d85Ab46qbZFNaOZj7DWUz5gJ6fwBNZzqlPWEe3Is"/>](https://compass.uol/en/home/)
 **AWS Data Engineer // intern** • 2023 - 2024 \
 [**Compass.UOL**](https://compass.uol/en/home/) • intern \
 `DATA ANALYSIS - AWS - PYTHON - SQL`
+
 
 <br/>
 
@@ -29,5 +31,9 @@ here's my previous experiences...
 
 
 <picture>
-<img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198315313368&show_in_game_bg=true&show_recent_game_bg=true">
+<img align=right src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198315313368&show_in_game_bg=true&show_recent_game_bg=true">
 </picture>
+
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=stellathewolfie)
+
