@@ -27,6 +27,7 @@ here's my previous experiences...
 
 <br>
 
+
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
+<img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198315313368&show_in_game_bg=true&show_recent_game_bg=true">
 </picture>
