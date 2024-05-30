@@ -30,10 +30,5 @@ here's my previous experiences...
 <br>
 
 
-<picture>
-<img align=right src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198315313368&show_in_game_bg=true&show_recent_game_bg=true">
-</picture>
-
-
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=stellathewolfie)
 
