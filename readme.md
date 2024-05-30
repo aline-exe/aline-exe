@@ -19,8 +19,14 @@ here's my previous experiences...
 
 <br/>
 
+
 #### lang
 * BR
 * ENG
 * SPN
 
+<br>
+
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
