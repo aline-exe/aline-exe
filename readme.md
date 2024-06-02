@@ -7,7 +7,7 @@ here's my previous experiences...
 
 [<img align="left" height="94px" width="94px" alt="WeSafer" src="https://github.com/aline-exe/aline-exe/assets/132860472/44297bf6-ea32-4d0a-80f5-1321f8cb37ec"/>](https://wesafer.com)
 **DevOps Engineer // intern** • 2024 - now \
-[**WeSafer**](https://wesafer.com) (at [Avantia](https://www.avantia.com.br) • intern \
+[**WeSafer**](https://wesafer.com) (at [Avantia](https://www.avantia.com.br)) • intern \
 `AWS - CI/CD - Python`  
 
 <br>
