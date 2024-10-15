@@ -1,7 +1,7 @@
 
  
 ### it's me! hi.
-i'm a computer science student mostly interested in cloud computing, IAC developing and automation.  
+i'm a computer science student mostly interested in cloud computing, IAC developing and automation. i also draw, animate, play the piano, write, and do stuff  
 feel free to connect with me on my [LinkedIn](https://www.linkedin.com/in/alineara/)  
 here's what i'm doing...
 
@@ -24,9 +24,9 @@ previous experience...
 
 #### i speak  
 
-* BR
-* ENG
-* SPN
+* brazillian portuguese
+* english - C2
+* spanish
 
 <br>
 
