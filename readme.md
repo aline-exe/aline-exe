@@ -25,7 +25,7 @@ previous experience...
 #### i speak  
 
 * brazillian portuguese
-* english - C2
+* english - C2 proficiency
 * spanish
 
 <br>
