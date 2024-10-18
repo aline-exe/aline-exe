@@ -1,7 +1,7 @@
 
  
 ### it's me! hi.
-i'm a computer science student mostly interested in cloud computing, IAC developing and automation. i also draw, animate, play the piano, write, and do stuff  
+i'm a computer science student mostly interested in cloud computing, IAC developing and automation. i also draw, animate, play the piano, write, game and do stuff  
 feel free to connect with me on my [LinkedIn](https://www.linkedin.com/in/alineara/)  
 here's what i'm doing...
 
