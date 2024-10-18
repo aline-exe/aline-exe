@@ -6,8 +6,8 @@ feel free to connect with me on my [LinkedIn](https://www.linkedin.com/in/alinea
 here's what i'm doing...
 
 [<img align="left" height="94px" width="94px" alt="WeSafer" src="https://github.com/aline-exe/aline-exe/assets/132860472/44297bf6-ea32-4d0a-80f5-1321f8cb37ec"/>](https://wesafer.com)
-**DevOps Engineer // internship** • since jun 2024 \
-[**WeSafer**](https://wesafer.com) (at [Avantia](https://www.avantia.com.br)) • intern \
+**DevOps Engineer // intern** • since jun 2024 \
+[**WeSafer**](https://wesafer.com) (at [Avantia](https://www.avantia.com.br)) • internship \
 `AWS - CI/CD - PYTHON - PROCESS AUTOMATION - GCP - AZURE - a bunch more`  
 i have an awesome team
 
@@ -15,8 +15,8 @@ i have an awesome team
 
 previous experience...  
 [<img align="left" height="94px" width="94px" alt="Compass" src="https://media.licdn.com/dms/image/C4E22AQGeOInu0o1uZQ/feedshare-shrink_800/0/1636143287890?e=2147483647&v=beta&t=pA7d85Ab46qbZFNaOZj7DWUz5gJ6fwBNZzqlPWEe3Is"/>](https://compass.uol/en/home/)
-**AWS Data Engineer // internship** • oct 2023 - apr 2024 \
-[**Compass.UOL**](https://compass.uol/en/home/) • intern \
+**AWS Data Engineer // intern** • oct 2023 - apr 2024 \
+[**Compass.UOL**](https://compass.uol/en/home/) • internship \
 `DATA ANALYSIS - AWS - PYTHON - SQL`
 
 
