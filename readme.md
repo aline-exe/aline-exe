@@ -5,22 +5,25 @@ i'm a computer science student mostly interested in cloud computing, IAC develop
 feel free to connect with me on my [LinkedIn](https://www.linkedin.com/in/alineara/)  
 here's what i'm doing...
 
+
 [<img align="left" height="94px" width="94px" alt="WeSafer" src="https://github.com/aline-exe/aline-exe/assets/132860472/44297bf6-ea32-4d0a-80f5-1321f8cb37ec"/>](https://wesafer.com)
 **DevOps Engineer // intern** • since jun 2024 \
 [**WeSafer**](https://wesafer.com) (at [Avantia](https://www.avantia.com.br)) • internship \
-`AWS - CI/CD - PYTHON - PROCESS AUTOMATION - GCP - AZURE - a bunch more`  
-i have an awesome team
 
 <br>
 
 previous experience...  
 [<img align="left" height="94px" width="94px" alt="Compass" src="https://media.licdn.com/dms/image/C4E22AQGeOInu0o1uZQ/feedshare-shrink_800/0/1636143287890?e=2147483647&v=beta&t=pA7d85Ab46qbZFNaOZj7DWUz5gJ6fwBNZzqlPWEe3Is"/>](https://compass.uol/en/home/)
 **AWS Data Engineer // intern** • oct 2023 - apr 2024 \
-[**Compass.UOL**](https://compass.uol/en/home/) • internship \
-`DATA ANALYSIS - AWS - PYTHON - SQL`
+[**Compass.UOL**](https://compass.uol/en/home/) • internship \  
 
 
-<br/>
+<br/>  
+  
+| my tech stack | creative stuff
+| ------------- | -------------- |
+| <img height="50px" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg"> <img height="50px" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Azure-Dark.svg"> <img height="50px" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GCP-Dark.svg"><img height="50px" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg"> <img height="50px" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg"> <img height="50px" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Grafana-Dark.svg"> <img height="50px" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg"> <img height="50px" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg"> <img height="50px" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg"> <img height="50px" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg"> <img height="50px" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ubuntu-Dark.svg"> |  <img height="50px" width="50px" src="https://github.com/user-attachments/assets/f1c9a016-9519-4e72-b247-40c36d5116f4"> <img height="50px" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Blender-Dark.svg"> <img height="50px" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg"> <img height="50px" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg"> <img height="50px" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Illustrator.svg"> <img height="50px" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/XD.svg"> <img height="50px" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Premiere.svg"> <img height="50px" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/XD.svg"> <img height="50px" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Notion-Dark.svg">|
+
 
 #### i speak  
 
