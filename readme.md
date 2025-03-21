@@ -8,7 +8,7 @@ here's what i'm doing...
 
 [<img align="left" height="94px" width="94px" alt="WeSafer" src="https://github.com/aline-exe/aline-exe/assets/132860472/44297bf6-ea32-4d0a-80f5-1321f8cb37ec"/>](https://wesafer.com)
 **DevOps Engineer // intern** • since jun 2024 \
-[**WeSafer**](https://wesafer.com) (at [Avantia](https://www.avantia.com.br)) • internship \   
+[**WeSafer**](https://wesafer.com) • internship \   
     
   
 | my tech stack | creative stuff
