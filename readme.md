@@ -1,7 +1,7 @@
 
  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=9f55b5&height=200&section=header&text=hi,%20i'm%20aline.&fontSize=40&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=f540c1&height=200&section=header&text=hi,%20i'm%20aline.&fontSize=40&fontColor=ffffff" alt="banner" />
 </p>
 
 <p align="center">
