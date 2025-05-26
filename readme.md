@@ -23,7 +23,7 @@
 
 **DevOps Intern @ [WeSafer](https://wesafer.com)** \
 `since june 2024`  
-i automate repetitive processes, help other teams with deploys and problems, keep an eye in the infraestructure health and costs in AWS and GCP, and a bunch of other stuff
+i automate repetitive processes, help other teams with deploys and problems, keep an eye in the infraestructure health, perfomance and costs in AWS and GCP, and a bunch of other stuff
 
 <br clear="left" />
 
