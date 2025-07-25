@@ -17,7 +17,7 @@
 
 ---
 
-###  currently working at
+###  currently working as
 
 [<img align="left" height="94px" width="94px" alt="WeSafer logo" src="https://github.com/aline-exe/aline-exe/assets/132860472/44297bf6-ea32-4d0a-80f5-1321f8cb37ec"/>](https://wesafer.com)
 
