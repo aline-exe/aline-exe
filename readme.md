@@ -49,8 +49,8 @@ i automate repetitive processes, help other teams with deploys and problems, kee
 
 - 🇧🇷 brazilian portuguese (native)
 - 🇬🇧 english (C2 proficiency)
-- 🇪🇸 spanish (learning)
-
+- 🇪🇸 spanish (learner)
+- 🇯🇵 japanese (learner)
 ---
 
 ### what am i listening to?
@@ -58,5 +58,6 @@ i automate repetitive processes, help other teams with deploys and problems, kee
 [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=stellathewolfie)](https://open.spotify.com/user/stellathewolfie)
 
 ---
+
 
 
