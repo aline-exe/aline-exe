@@ -22,7 +22,7 @@
 [<img align="left" height="94px" width="94px" alt="WeSafer logo" src="https://github.com/aline-exe/aline-exe/assets/132860472/44297bf6-ea32-4d0a-80f5-1321f8cb37ec"/>](https://wesafer.com)
 
 **DevOps Intern @ [WeSafer](https://wesafer.com)** \
-`since june 2024`  
+`1 1/2 yrs`  
 i automate repetitive processes, help other teams with deploys and problems, keep an eye at the infraestructure health, perfomance and costs in AWS and GCP, and a bunch of other stuff
 
 <br clear="left" />
@@ -58,6 +58,7 @@ i automate repetitive processes, help other teams with deploys and problems, kee
 [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=stellathewolfie)](https://open.spotify.com/user/stellathewolfie)
 
 ---
+
 
 
 
