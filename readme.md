@@ -23,7 +23,7 @@
 
 **DevOps Intern @ [WeSafer](https://wesafer.com)** \
 `1 1/2 yrs`  
-i automated repetitive processes, helped other teams with deploys and problems, kept an eye at the infraestructure health, perfomance and costs in AWS and GCP, and a bunch of other stuff, was responsible for introducing terraform to small projects on GCP and AWS
+i automated repetitive processes, helped other teams with deploys and problems, kept an eye at the infraestructure health and costs in AWS and GCP, was responsible for introducing terraform to small projects on GCP and AWS and a bunch of other stuff
 
 <br clear="left" />
 
@@ -58,6 +58,7 @@ i automated repetitive processes, helped other teams with deploys and problems, 
 [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=stellathewolfie)](https://open.spotify.com/user/stellathewolfie)
 
 ---
+
 
 
 
