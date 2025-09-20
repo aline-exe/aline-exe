@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>devops intern • artist • cs undergrad</b><br/>
+  <b>devops • backend • artist • cs undergrad</b><br/>
   curious about cloud, iac, automation, and all things tech + creative <br/>
   also into drawing, animating, piano, gaming, writing and making stuff just for fun
 </p>
@@ -23,7 +23,7 @@
 
 **DevOps Intern @ [WeSafer](https://wesafer.com)** \
 `1 1/2 yrs`  
-i automate repetitive processes, help other teams with deploys and problems, keep an eye at the infraestructure health, perfomance and costs in AWS and GCP, and a bunch of other stuff
+i automated repetitive processes, helped other teams with deploys and problems, kept an eye at the infraestructure health, perfomance and costs in AWS and GCP, and a bunch of other stuff, was responsible for introducing terraform to small projects on GCP and AWS
 
 <br clear="left" />
 
@@ -58,6 +58,7 @@ i automate repetitive processes, help other teams with deploys and problems, kee
 [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=stellathewolfie)](https://open.spotify.com/user/stellathewolfie)
 
 ---
+
 
 
 
