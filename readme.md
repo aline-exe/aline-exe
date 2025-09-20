@@ -32,7 +32,7 @@ i automated repetitive processes, helped other teams with deploys and problems, 
 ###  tech stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,git,grafana,mysql,postgres,python,postman,ubuntu&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker, terraform, git,grafana,mysql,postgres,python,postman,ubuntu&theme=dark" /><br/>
 </div>
 
 ---
@@ -58,6 +58,7 @@ i automated repetitive processes, helped other teams with deploys and problems, 
 [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=stellathewolfie)](https://open.spotify.com/user/stellathewolfie)
 
 ---
+
 
 
 
