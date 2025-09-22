@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>devops • backend • artist • cs undergrad</b><br/>
+  <b>devops • SRE • backend • artist • cs undergrad</b><br/>
   curious about cloud, iac, automation, and all things tech + creative <br/>
   also into drawing, animating, piano, gaming, writing and making stuff just for fun
 </p>
@@ -58,6 +58,7 @@ i automated repetitive processes, helped other teams with deploys and problems, 
 [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=stellathewolfie)](https://open.spotify.com/user/stellathewolfie)
 
 ---
+
 
 
 
