@@ -17,8 +17,7 @@
 
 ---
 
-###  previous experience
-
+###  currently working at
 [<img align="left" height="94px" width="94px" alt="Segware logo" src="https://github.com/user-attachments/assets/a8a70605-bf39-43ff-ba70-d274fa3bc9a6"/>](https://segware.com)
 
 
@@ -59,6 +58,7 @@
 [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=stellathewolfie)](https://open.spotify.com/user/stellathewolfie)
 
 ---
+
 
 
 
