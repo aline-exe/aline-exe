@@ -19,11 +19,12 @@
 
 ###  previous experience
 
-[<img align="left" height="94px" width="94px" alt="WeSafer logo" src="https://github.com/aline-exe/aline-exe/assets/132860472/44297bf6-ea32-4d0a-80f5-1321f8cb37ec"/>](https://wesafer.com)
+[<img align="left" height="94px" width="94px" alt="Segware logo" src="https://github.com/user-attachments/assets/a8a70605-bf39-43ff-ba70-d274fa3bc9a6"/>](https://segware.com)
 
-**DevOps Intern @ [WeSafer](https://wesafer.com)** \
-`1 1/2 yrs`  
-i automated repetitive processes, helped other teams with deploys and problems, kept an eye at the infraestructure health and costs in AWS and GCP, was responsible for introducing terraform to small projects on GCP and AWS and a bunch of other stuff
+
+
+**Jr. Site Reliability Engineer @ [Segware](https://segware.com)** \
+`since oct 2025`  
 
 <br clear="left" />
 
@@ -58,6 +59,7 @@ i automated repetitive processes, helped other teams with deploys and problems, 
 [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=stellathewolfie)](https://open.spotify.com/user/stellathewolfie)
 
 ---
+
 
 
 
