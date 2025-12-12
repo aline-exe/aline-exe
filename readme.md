@@ -23,7 +23,9 @@
 
 
 **Jr. Site Reliability Engineer @ [Segware](https://segware.com)** \
-`since oct 2025`  
+`since oct 2025`    
+
+Also worked as an Intern DevOps Enginner (AWS/GCP) and Intern Data Engineer (AWS) before.
 
 <br clear="left" />
 
@@ -32,7 +34,7 @@
 ###  tech stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,git,terraform,grafana,mysql,postgres,python,postman,ubuntu&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,git,terraform,grafana,mysql,postgres,python,postman,ubuntu,mongodb&theme=dark" /><br/>
 </div>
 
 ---
@@ -49,7 +51,7 @@
 
 - 🇧🇷 brazilian portuguese (native)
 - 🇬🇧 english (C2 proficiency)
-- 🇪🇸 spanish (learner)
+- 🇪🇸 spanish 
 - 🇯🇵 japanese (learner)
 ---
 
@@ -58,6 +60,7 @@
 [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=stellathewolfie)](https://open.spotify.com/user/stellathewolfie)
 
 ---
+
 
 
 
